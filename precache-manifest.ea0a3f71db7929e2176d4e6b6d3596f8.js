@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "46b771992d4bc9f226aa",
+    "revision": "eb45fa7eef42ee607f04",
     "url": "/boggle-front/static/css/main.561e7ac5.chunk.css"
   },
   {
-    "revision": "46b771992d4bc9f226aa",
-    "url": "/boggle-front/static/js/main.46b77199.chunk.js"
+    "revision": "eb45fa7eef42ee607f04",
+    "url": "/boggle-front/static/js/main.eb45fa7e.chunk.js"
   },
   {
     "revision": "e42fd2daf0a20d22b11a",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/boggle-front/static/media/not-found-bg.8f346a53.jpg"
   },
   {
-    "revision": "386f0e7eebc8dd647297b998ec70f315",
+    "revision": "5f3cb5c0c310fb2a6bc8a87430226ee5",
     "url": "/boggle-front/index.html"
   }
 ];

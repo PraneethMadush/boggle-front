@@ -1,7 +1,7 @@
 {
   "main.css": "/boggle-front/static/css/main.561e7ac5.chunk.css",
-  "main.js": "/boggle-front/static/js/main.46b77199.chunk.js",
-  "main.js.map": "/boggle-front/static/js/main.46b77199.chunk.js.map",
+  "main.js": "/boggle-front/static/js/main.eb45fa7e.chunk.js",
+  "main.js.map": "/boggle-front/static/js/main.eb45fa7e.chunk.js.map",
   "static/js/1.e42fd2da.chunk.js": "/boggle-front/static/js/1.e42fd2da.chunk.js",
   "static/js/1.e42fd2da.chunk.js.map": "/boggle-front/static/js/1.e42fd2da.chunk.js.map",
   "runtime~main.js": "/boggle-front/static/js/runtime~main.f4280bc6.js",
@@ -12,6 +12,6 @@
   "static/media/notfound.css": "/boggle-front/static/media/not-found-bg.8f346a53.jpg",
   "static/css/main.561e7ac5.chunk.css.map": "/boggle-front/static/css/main.561e7ac5.chunk.css.map",
   "index.html": "/boggle-front/index.html",
-  "precache-manifest.1b280793420c35206863629b80f32491.js": "/boggle-front/precache-manifest.1b280793420c35206863629b80f32491.js",
+  "precache-manifest.ea0a3f71db7929e2176d4e6b6d3596f8.js": "/boggle-front/precache-manifest.ea0a3f71db7929e2176d4e6b6d3596f8.js",
   "service-worker.js": "/boggle-front/service-worker.js"
 }
